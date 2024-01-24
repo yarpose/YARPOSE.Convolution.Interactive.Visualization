@@ -6,7 +6,7 @@ This page can be used as part of a tutorial on the convolution of two signals. I
 
 The basic convolution integral is according to:
 
-$ y(t)=\int_{-\infty}^{+\infty}{h(t-\lambda)\cdot f(\lambda)\cdot d\lambda}=\int_{0^-}^t{h(t-\lambda)\cdot f(\lambda)\cdot d\lambda} $
+$$ y(t)=\int_{-\infty}^{+\infty}{h(t-\lambda)\cdot f(\lambda)\cdot d\lambda}=\int_{0^-}^t{h(t-\lambda)\cdot f(\lambda)\cdot d\lambda} $$
 
  This is is often referred to as graphical convolution. It comes with some features we demonstrated in `Interactive Help and Guide` tab of the tool. Please first look at the help and guide tab.
 
